@@ -50,7 +50,7 @@
   "dependencies": {
     "antd": "^3.10.9",
     "async-validator": "1.10.0",
-    "axios": "0.18.0",
+    "axios": "0.19.0",
     "babel-plugin-import": "^1.11.2",
     "bizcharts": "^3.4.3",
     "classnames": "2.2.6",
